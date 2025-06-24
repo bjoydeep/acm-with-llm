@@ -20,3 +20,4 @@ basebot/eventdump.csv
 src/test.py
 .acmllm/
 .vscode
+**/.env
